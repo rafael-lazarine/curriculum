@@ -22,26 +22,24 @@
 # SKILLS
 
 ### FRONT-END
-- `HTML       ==========  90%`
-- `CSS        =========   60%`
-- `FlexBox    ====        40%`
-- `CSS Grid   ===         30%`
-- `JavaScript ========    80%`
-- `React      =========   90%`
 
 | Tecnologia  |  Conhecimeno  |
 | ---------   | ------------- |
-|  HTML       | 90%           |
-|  CSS        | 60%           |
-|  FLEZBOX    | 40%           |
-|  CSS GRID   | 30%           |
-|  JAVASCRIPT | 60%           |
-|  REACT      | 90%           |
+|  HTML       | --------- 90% |
+|  CSS        | --------- 60% |
+|  FLEZBOX    | --------- 40% |
+|  CSS GRID   | --------- 30% |
+|  JAVASCRIPT | --------- 60% |
+|  REACT      | --------- 90% |
+
 
 ### BACK-END
-- `PHP      ==========  100%`
-- `Nodejs   ========    80%`
-- `Adonisjs ========    80%`
+
+| Tecnologia  |  Conhecimeno  |
+| ---------   | ------------- |
+|  PHP        | --------- 95% |
+|  NODEJS     | --------- 80% |
+|  ADONISJS   | --------- 80% |
 
 ### MOBILE
 - `Flutter =======  70%`
