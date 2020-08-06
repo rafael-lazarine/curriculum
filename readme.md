@@ -53,16 +53,16 @@
 | DIGITAL OCEAN    | --------- 35% |
 
 
-### Web Design
+### WEB DESIGNER
 
-| Tecnologia  |  Conhecimento  |
+| Ferramenta  |  Conhecimento  |
 | ---------   | -------------  |
 | PHOTOSHOP   | --------- 50%  |
 | FIGMA       | --------- 50%  |
 
 
 ### IDE
-| Tecnologia      |  Conhecimento  |
+| Ferramento      |  Conhecimento  |
 | ---------       | -------------  |
 | VSCODE          | --------- 50%  |
 | ANDROID STUDIO  | --------- 50%  |
