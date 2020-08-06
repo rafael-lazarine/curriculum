@@ -22,7 +22,6 @@
 # SKILLS
 
 ### FRONT-END
-
 | Tecnologia  |  Conhecimeno  |
 | ---------   | ------------- |
 |  HTML       | --------- 90% |
@@ -34,7 +33,6 @@
 
 
 ### BACK-END
-
 | Tecnologia  |  Conhecimeno  |
 | ---------   | ------------- |
 |  PHP        | --------- 95% |
@@ -42,15 +40,22 @@
 |  ADONISJS   | --------- 80% |
 
 ### MOBILE
-- `Flutter =======  70%`
-- `Dart    =======  70%`
+| Tecnologia  |  Conhecimeno  |
+| ---------   | ------------- |
+|  FLUTTER    | --------- 65% |
+|  DART       | --------- 60% |
 
 ### INFRAESTRUTURA
-...carregando
+| Tecnologia       |  Conhecimeno  |
+| ---------        | ------------- |
+|  DIGITAL OCEAN   | --------- 35% |
 
 ### Web Design
-- `Photoshop =====  50%`
-- `Figma     =====  50%`
+
+| Tecnologia  |  Conhecimeno  |
+| ---------   | ------------- |
+|  PHOTOSHOP  | --------- 50% |
+|  FIGMA      | --------- 50% |
 
 ### IDE
 - `VSCODE         ==========  100%`
