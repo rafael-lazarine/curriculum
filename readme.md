@@ -62,7 +62,7 @@
 
 
 ### IDE
-| Ferramento      |  Conhecimento  |
+| Ferramenta      |  Conhecimento  |
 | ---------       | -------------  |
 | VSCODE          | --------- 50%  |
 | ANDROID STUDIO  | --------- 50%  |
