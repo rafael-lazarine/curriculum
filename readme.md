@@ -24,46 +24,46 @@
 ### FRONT-END
 | Tecnologia  |  Conhecimeno  |
 | ---------   | ------------- |
-|  HTML       | --------- 90% |
-|  CSS        | --------- 60% |
-|  FLEZBOX    | --------- 40% |
-|  CSS GRID   | --------- 30% |
-|  JAVASCRIPT | --------- 60% |
-|  REACT      | --------- 90% |
+| HTML       | --------- 90%  |
+| CSS        | --------- 60%  |
+| FLEZBOX    | --------- 40%  | 
+| CSS GRID   | --------- 30%  |
+| JAVASCRIPT | --------- 60%  |
+| REACT      | --------- 70%  |
 
 
 ### BACK-END
-| Tecnologia  |  Conhecimeno  |
-| ---------   | ------------- |
-|  PHP        | --------- 95% |
-|  NODEJS     | --------- 80% |
-|  ADONISJS   | --------- 80% |
+| Tecnologia  |  Conhecimento  |
+| ---------   | -------------  |
+| PHP         | --------- 95%  |
+| NODEJS      | --------- 80%  |
+| ADONISJS    | --------- 80%  |
 
 
 ### MOBILE
-| Tecnologia  |  Conhecimeno  |
+| Tecnologia  |  Conhecimento  |
 | ---------   | ------------- |
-|  FLUTTER    | --------- 65% |
-|  DART       | --------- 60% |
+| FLUTTER     | --------- 65% |
+| DART        | --------- 60% |
 
 
 ### INFRAESTRUTURA
-| Tecnologia       |  Conhecimeno  |
+| Tecnologia       |  Conhecimento |
 | ---------        | ------------- |
-|  DIGITAL OCEAN   | --------- 35% |
+| DIGITAL OCEAN    | --------- 35% |
 
 
 ### Web Design
 
-| Tecnologia  |  Conhecimeno  |
-| ---------   | ------------- |
-|  PHOTOSHOP  | --------- 50% |
-|  FIGMA      | --------- 50% |
+| Tecnologia  |  Conhecimento  |
+| ---------   | -------------  |
+| PHOTOSHOP   | --------- 50%  |
+| FIGMA       | --------- 50%  |
 
 
 ### IDE
-| Tecnologia      |  Conhecimeno  |
-| ---------       | ------------- |
-|  VSCODE         | --------- 50% |
-|  ANDROID STUDIO | --------- 50% |
+| Tecnologia      |  Conhecimento  |
+| ---------       | -------------  |
+| VSCODE          | --------- 50%  |
+| ANDROID STUDIO  | --------- 50%  |
 
