@@ -39,16 +39,19 @@
 |  NODEJS     | --------- 80% |
 |  ADONISJS   | --------- 80% |
 
+
 ### MOBILE
 | Tecnologia  |  Conhecimeno  |
 | ---------   | ------------- |
 |  FLUTTER    | --------- 65% |
 |  DART       | --------- 60% |
 
+
 ### INFRAESTRUTURA
 | Tecnologia       |  Conhecimeno  |
 | ---------        | ------------- |
 |  DIGITAL OCEAN   | --------- 35% |
+
 
 ### Web Design
 
@@ -57,7 +60,10 @@
 |  PHOTOSHOP  | --------- 50% |
 |  FIGMA      | --------- 50% |
 
+
 ### IDE
-- `VSCODE         ==========  100%`
-- `ANDROID STUDIO ==========  100%`
+| Tecnologia      |  Conhecimeno  |
+| ---------       | ------------- |
+|  VSCODE         | --------- 50% |
+|  ANDROID STUDIO | --------- 50% |
 
