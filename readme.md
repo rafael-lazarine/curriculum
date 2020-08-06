@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <a href="https://www.facebook.com/fael.lazarine">
       <img src="https://img.shields.io/badge/Facebook-Perfil Pessoal-blue"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <a href="https://twitter.com/faelti">
       <img src="https://img.shields.io/badge/Twitter-Perfil Pessoal-9cf"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+    <a href="https://www.instagram.com/faelti/">
       <img src="https://img.shields.io/badge/Instagram-Perfil Pessoal-critical"/>
    </a>
    <a href="https://www.linkedin.com/in/rafael-lazarine-b65a083b/">
