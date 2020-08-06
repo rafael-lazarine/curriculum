@@ -29,6 +29,15 @@
 - `JavaScript ========    80%`
 - `React      =========   90%`
 
+| Tecnologia  |  Conhecimeno  |
+| ---------   | ------------- |
+|  HTML       | 90%           |
+|  CSS        | 60%           |
+|  FLEZBOX    | 40%           |
+|  CSS GRID   | 30%           |
+|  JAVASCRIPT | 60%           |
+|  REACT      | 90%           |
+
 ### BACK-END
 - `PHP      ==========  100%`
 - `Nodejs   ========    80%`
