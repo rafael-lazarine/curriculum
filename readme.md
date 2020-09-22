@@ -40,13 +40,6 @@
 | NESTJS      | --------- 80%  |
 
 
-### MOBILE
-| Tecnologia  |  Conhecimento  |
-| ---------   | -------------  |
-| FLUTTER     | --------- 65%  |
-| DART        | --------- 60%  |
-
-
 ### INFRAESTRUTURA
 | Tecnologia       |  Conhecimento |
 | ---------        | ------------- |
