@@ -37,14 +37,14 @@
 | ---------   | -------------  |
 | PHP         | --------- 95%  |
 | NODEJS      | --------- 80%  |
-| ADONISJS    | --------- 80%  |
+| NESTJS      | --------- 80%  |
 
 
 ### MOBILE
 | Tecnologia  |  Conhecimento  |
-| ---------   | ------------- |
-| FLUTTER     | --------- 65% |
-| DART        | --------- 60% |
+| ---------   | -------------  |
+| FLUTTER     | --------- 65%  |
+| DART        | --------- 60%  |
 
 
 ### INFRAESTRUTURA
@@ -60,10 +60,16 @@
 | PHOTOSHOP   | --------- 50%  |
 | FIGMA       | --------- 50%  |
 
+### MOBILE
+| Tecnologia  |  Conhecimento  |
+| ---------   | -------------  |
+| FLUTTER     | --------- 65%  |
+| DART        | --------- 60%  |
 
-### IDE
-| Ferramenta      |  Conhecimento  |
+
+### ARQUITETURA DE SOFTWARE
+| Técnica         |  Conhecimento  |
 | ---------       | -------------  |
-| VSCODE          | --------- 50%  |
-| ANDROID STUDIO  | --------- 50%  |
+| DDD             | --------- 50%  |
+| TDD             | --------- 50%  |
 
