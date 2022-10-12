@@ -26,10 +26,10 @@
 | ---------   | -------------  |
 | HTML        | --------- 90%  |
 | CSS         | --------- 60%  |
-| FLEXBOX     | --------- 40%  | 
+| FLEXBOX     | --------- 85%  | 
 | CSS GRID    | --------- 30%  |
-| JAVASCRIPT  | --------- 60%  |
-| REACT       | --------- 70%  |
+| JAVASCRIPT  | --------- 85%  |
+| REACT       | --------- 80%  |
 
 
 ### BACK-END
@@ -37,13 +37,13 @@
 | ---------   | -------------  |
 | PHP         | --------- 95%  |
 | NODEJS      | --------- 80%  |
-| NESTJS      | --------- 80%  |
+| .NET        | --------- 60%  |
 
 
 ### INFRAESTRUTURA
 | Tecnologia       |  Conhecimento |
 | ---------        | ------------- |
-| DIGITAL OCEAN    | --------- 35% |
+| DIGITAL OCEAN    | --------- 55% |
 
 
 ### WEB DESIGNER
@@ -54,10 +54,9 @@
 | FIGMA       | --------- 50%  |
 
 ### MOBILE
-| Tecnologia  |  Conhecimento  |
-| ---------   | -------------  |
-| FLUTTER     | --------- 65%  |
-| DART        | --------- 60%  |
+| Tecnologia       |  Conhecimento  |
+| ---------        | -------------  |
+| REACT NATIVE     | --------- 85%  |
 
 
 ### ARQUITETURA DE SOFTWARE
