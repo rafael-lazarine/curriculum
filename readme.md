@@ -39,18 +39,33 @@
 | NODEJS      | --------- 80%  |
 | .NET        | --------- 60%  |
 
+### BANCO DE DADOS
+| Tecnologia  |  Conhecimento  |
+| ---------   | -------------  |
+| MYSQL       | --------- 95%  |
+| POSTGRESQL  | --------- 80%  |
+| MONGODB     | --------- 60%  |
 
-### INFRAESTRUTURA
+
+### CLOUD
 | Tecnologia       |  Conhecimento |
 | ---------        | ------------- |
 | DIGITAL OCEAN    | --------- 55% |
+| AWS              | --------- 50% |
+
+
+### MENSAGERIA
+| Tecnologia  |  Conhecimento |
+| ---------   | ------------- |
+| RABBITMQ    | --------- 55% |
+| SNS AWS     | --------- 50% |
+| SQS AWS     | --------- 50% |
 
 
 ### WEB DESIGNER
 
 | Ferramenta  |  Conhecimento  |
 | ---------   | -------------  |
-| PHOTOSHOP   | --------- 50%  |
 | FIGMA       | --------- 50%  |
 
 ### MOBILE
